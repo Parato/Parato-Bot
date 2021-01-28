@@ -18,9 +18,6 @@ DESIGN:
 +avsteal (user)
   - SETS YOUR AVATAR TO THE USER AVATAR
   
-+save-all-av
-  - SAVES ALL AVATARS FROM THE SERVER
-  
 +serverpicture
   - SENDS PICTURE OF THE SERVER 
   

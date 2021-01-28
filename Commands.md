@@ -37,7 +37,7 @@ EMOTES:
   - SENDS: (╯°□°）╯︵ ┻━┻
   
 +unflip
-  -SENDS: ┬─┬ ノ( ゜-゜ノ)
+  - SENDS: ┬─┬ ノ( ゜-゜ノ)
   
 +lenny
   - SENDS: ( ͡° ͜ʖ ͡°)

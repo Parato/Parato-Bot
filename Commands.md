@@ -9,13 +9,13 @@ __________________________________________________________________
   
 DESIGN:
 
-+av (user)
++avatar (user)
   - SENDS THE AVATAR OF THE USER AS A PICTURE
   
-+revav (user)
++google-avatar (user)
   - SEARCHES FOR USER'S AVATAR ON GOOGLE
   
-+avsteal (user)
++avatar-steal (user)
   - SETS YOUR AVATAR TO THE USER AVATAR
   
 +serverpicture
@@ -117,7 +117,7 @@ TOOLS:
 +read
   - MARKS ALL MESSAGES AS READ, EXCEPT DM'S
   
-+pingweb (website)
++ping (website)
   - PINGS A WEBSITE
   
 +copy

@@ -1,78 +1,53 @@
++(command) = This is the Command
+
+-(text)    = This is the explanation what the Command does
+__________________________________________________________________
+
 +help
-  - SHOWS HELP
+  - LINKS YOU THIS PAGE HERE
+__________________________________________________________________  
+  
+DESIGN:
 
 +av (user)
-  - SHOWS AVATAR OF USER
+  - SENDS THE AVATAR OF THE USER AS A PICTURE
   
 +revav (user)
   - SEARCHES FOR USER'S AVATAR ON GOOGLE
   
-+role-hexcode (role)
-  - SHOWS HEXCODE FOR THE ROLE
++avsteal (user)
+  - SETS YOUR AVATAR TO THE USER AVATAR
   
-+servericon
-  - SHOWS ICON OF THE SERVER
++save-all-av
+  - SAVES ALL AVATARS FROM THE SERVER
+  
++serverpicture
+  - SENDS PICTURE OF THE SERVER 
   
 +roleinfo (role)
   -SHOWS INFO FOR A ROLE
   
-+unflip
-  -SENDS: ┬─┬ ノ( ゜-゜ノ)
-  
++role-hexcode (role)
+  - SHOWS HEXCODE FOR THE ROLE
+__________________________________________________________________
+
+EMOTES:
+
 +tableflip
   - SENDS: (╯°□°）╯︵ ┻━┻
+  
++unflip
+  -SENDS: ┬─┬ ノ( ゜-゜ノ)
   
 +lenny
   - SENDS: ( ͡° ͜ʖ ͡°)
   
 +shrug
   - SENDS: ¯\_(ツ)_/¯
-  
-+reverse (message)
-  - REVERSES UR MESSAGE
-  
-+cls
-  - CLEAR CONSOL
-  
-+read
-  - MARKS ALL YOUR MESSAGES AS READ, EXCEPT DM's
-  
-+first-message
-  - SHOWS THE FIRST MESSAGE ON THE CHANNEL
-  
-+devowel (message)
-  - DEVOWELS YOUR MESSAGE
-  
-+1337-speak (message)
-  - TRANSLATES YOUR MESSAGE INTO 1337
-  
-combine (name) (name2)
-  - COMBINES 2 NAMES
-  
-+pingweb (website)
-  - PINGS A WEBSITE
-  
-+tts (message)
-  - SENDS MESSAGE AS AN MP3
-  
-+pfpsteal (user)
-  - SETS YOUR AVATAR TO THE USER AVATAR
-  
-+steal-all-pfp
-  - STEALS ALL AVATAR FROM THE SERVER
-  
-+stream (message)
-  - STREAM MESSAGE ON PROFILE
-  
-+watching (message)
-  - WATCH MESSAGE ON PROFILE
-  
-+listening (message)
-  - LISTEBING MESSAGE ON PROFILE
-  
-+game (message)
-  - GAME MESSAGE ON PROFILE
-  
+__________________________________________________________________
+
+PICTURES:
+
 +fox
   - RANDOME FOX PICTURE
   
@@ -81,9 +56,27 @@ combine (name) (name2)
   
 +cat
   - RANDOM CAT PICTURE
+__________________________________________________________________
+
+TEXT OUTPUT:
+
++first-message
+  - SHOWS THE FIRST MESSAGE MADE ON THE CHANNEL
+
++reverse (message)
+  - REVERSES UR MESSAGE
   
-+dick (user)
-  - OUTPUT DICK SIZE
++devowel (message)
+  - DEVOWELS YOUR MESSAGE
+  
++1337-speak (message)
+  - TRANSLATES YOUR MESSAGE INTO 1337 SPEAK
+  
++tts (message)
+  - SENDS MESSAGE AS AN MP3
+  
++combine (name) (name2)
+  - COMBINES 2 NAMES
   
 +joke
   - TELLS A JOKE
@@ -103,9 +96,39 @@ combine (name) (name2)
 +weather (city)
   - SHOWS WEATHER
   
++pp (user)
+  - OUTPUT PP SIZE (ALWAYS ACCURATE)
+__________________________________________________________________
+  
+STATUS:
+
++game (message)
+  - GAME MESSAGE ON PROFILE
+  
++watching (message)
+  - WATCH MESSAGE ON PROFILE
+  
++listening (message)
+  - LISTENING MESSAGE ON PROFILE
+
++stream (message)
+  - STREAM MESSAGE ON PROFILE
+__________________________________________________________________
+
+TOOLS:
+
++read
+  - MARKS ALL MESSAGES AS READ, EXCEPT DM'S
+  
++pingweb (website)
+  - PINGS A WEBSITE
+  
 +copy
-  - COPYS SERVER INFOS
+  - CREATES BACKUP OF THE SERVER
   
 +massunban
   - UNBAN EVERY MEMBER
   
++cls
+  - CLEAR CONSOLE
+__________________________________________________________________

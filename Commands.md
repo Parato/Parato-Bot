@@ -1,6 +1,6 @@
 +(command) = This is the Command
 
--(text)    = This is the explanation what the Command does
+- (text)    = This is the explanation what the Command does
 __________________________________________________________________
 
 +help

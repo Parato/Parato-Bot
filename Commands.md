@@ -25,7 +25,7 @@ DESIGN:
   - SENDS PICTURE OF THE SERVER 
   
 +roleinfo (role)
-  -SHOWS INFO FOR A ROLE
+  - SHOWS INFO FOR A ROLE
   
 +role-hexcode (role)
   - SHOWS HEXCODE FOR THE ROLE

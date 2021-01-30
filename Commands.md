@@ -15,7 +15,7 @@ DESIGN:
 +google-avatar (user)
   - SEARCHES FOR USER'S AVATAR ON GOOGLE
   
-+avatar-steal (user)
++steal-avatar (user)
   - SETS YOUR AVATAR TO THE USER AVATAR
   
 +serverpicture

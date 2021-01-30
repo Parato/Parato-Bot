@@ -40,7 +40,7 @@ EMOTES:
   - SENDS: ( ͡° ͜ʖ ͡°)
   
 +shrug
-  - SENDS: ¯\_(ツ)_/¯
+  - SENDS: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 __________________________________________________________________
 
 PICTURES:

@@ -92,9 +92,6 @@ TEXT OUTPUT:
   
 +weather (city)
   - SHOWS WEATHER
-  
-+pp (user)
-  - OUTPUT PP SIZE (ALWAYS ACCURATE)
 __________________________________________________________________
   
 STATUS:
@@ -112,20 +109,12 @@ STATUS:
   - STREAM MESSAGE ON PROFILE
 __________________________________________________________________
 
-TOOLS:
-
-+read
-  - MARKS ALL MESSAGES AS READ, EXCEPT DM'S
-  
-+ping (website)
-  - PINGS A WEBSITE
+TOOLS (NOONE ELSE CAN USE THESE COMMANDS):
   
 +copy
   - CREATES BACKUP OF THE SERVER
   
 +massunban
   - UNBAN EVERY MEMBER
-  
-+cls
-  - CLEAR CONSOLE
+ 
 __________________________________________________________________

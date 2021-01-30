@@ -40,7 +40,7 @@ EMOTES:
   - SENDS: ( ͡° ͜ʖ ͡°)
   
 +shrug
-  - SENDS: ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  - SENDS: ![Image of Yaktocat](https://github.com/Parato/Parato-Bot/blob/main/Desktop%20Screenshot%202021.01.31%20-%2000.49.23.61.png)
 __________________________________________________________________
 
 PICTURES:

@@ -31,16 +31,16 @@ __________________________________________________________________
 EMOTES:
 
 +tableflip
-  - SENDS: (╯°□°）╯︵ ┻━┻
+  - SENDS: ![Image of tableflip](https://github.com/Parato/Parato-Bot/blob/main/Pictures/tableflip.png)
   
 +unflip
-  - SENDS: ┬─┬ ノ( ゜-゜ノ)
+  - SENDS: ![Image of unflip](https://github.com/Parato/Parato-Bot/blob/main/Pictures/unflip.png)
   
 +lenny
-  - SENDS: ( ͡° ͜ʖ ͡°)
+  - SENDS: ![Image of Lenny](https://github.com/Parato/Parato-Bot/blob/main/Pictures/lenny.png)
   
 +shrug
-  - SENDS: ![Image of Shrug](https://github.com/Parato/Parato-Bot/blob/main/Desktop%20Screenshot%202021.01.31%20-%2000.49.23.61.png)
+  - SENDS: ![Image of Shrug](https://github.com/Parato/Parato-Bot/blob/main/Pictures/shrug.png)
 __________________________________________________________________
 
 PICTURES:

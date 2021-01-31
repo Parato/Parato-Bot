@@ -92,6 +92,9 @@ TEXT OUTPUT:
   
 +weather (city)
   - SHOWS WEATHER
+  
++profile (name)
+  - SHOWS THE osu! PROFILE OF THE NAME
 __________________________________________________________________
   
 STATUS:

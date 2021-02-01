@@ -39,6 +39,10 @@ to do:
           
           - Have buttons to activate commands like autohunt/autobattle/autoall/weather/etc.
           
+          - switch between accounts
+          
+          - edit things like, streamer, tokens, pw, etc
+          
           
 - rework the whole code so its less messy
 

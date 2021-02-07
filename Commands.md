@@ -161,7 +161,7 @@ TOOLS (NOONE ELSE CAN USE THESE COMMANDS):
   - Does all secretgamble stuff x times
 
 +secretdrop (amount)
-  - Does all secretdroo stuff x times
+  - Does all secretdrop stuff x times
 
  
 __________________________________________________________________

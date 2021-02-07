@@ -7,7 +7,7 @@ __________________________________________________________________
   - LINKS YOU THIS PAGE HERE
 __________________________________________________________________  
   
-DESIGN:
+DESIGN: (NOT AVAILABLE RIGHT NOW)
 
 +avatar (user)
   - SENDS THE AVATAR OF THE USER AS A PICTURE
@@ -46,13 +46,43 @@ __________________________________________________________________
 PICTURES:
 
 +fox
-  - RANDOME FOX PICTURE
+  - RANDOM FOX PICTURE
   
 +dog
   - RANDOM DOG PICTURE
   
 +cat
   - RANDOM CAT PICTURE
+
++panda
+  - Random Panda Picture
+
++bird
+  - Random Bird Picture
+
++koala
+  - Random Koala Picture
+
++pikachu
+  - Random Pikachu Picture
+
++foxfact
+  - RANDOM FOX Fact
+  
++dogfact
+  - RANDOM DOG Fact
+  
++catfact
+  - RANDOM CAT Fact
+
++pandafact
+  - Random Panda Fact
+
++birdfact
+  - Random Bird Fact
+
++koalafact
+  - Random Koala Fact
 __________________________________________________________________
 
 TEXT OUTPUT:
@@ -66,7 +96,7 @@ TEXT OUTPUT:
 +devowel (message)
   - DEVOWELS YOUR MESSAGE
   
-+1337-speak (message)
++1337 (message)
   - TRANSLATES YOUR MESSAGE INTO 1337 SPEAK
   
 +tts (message)
@@ -93,8 +123,9 @@ TEXT OUTPUT:
 +weather (city)
   - SHOWS WEATHER
   
-+profile (name)
++profile (name) [-ripple]
   - SHOWS THE osu! PROFILE OF THE NAME
+  - Can show ripple profile
 __________________________________________________________________
   
 STATUS:
@@ -114,10 +145,23 @@ __________________________________________________________________
 
 TOOLS (NOONE ELSE CAN USE THESE COMMANDS):
   
-+copy
-  - CREATES BACKUP OF THE SERVER
-  
-+massunban
-  - UNBAN EVERY MEMBER
++secretdaily
+  - Does all secret daily stuff
+
++secretall (amount)
+  - Does all secret stuff x times
+
++secretb (amount)
+  - Does all secretb stuff x times
+
++secreth (amount)
+  - Does all secreth stuff x times
+
++secretgamble (amount)
+  - Does all secretgamble stuff x times
+
++secretdrop (amount)
+  - Does all secretdroo stuff x times
+
  
 __________________________________________________________________

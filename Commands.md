@@ -145,6 +145,9 @@ __________________________________________________________________
 
 TOOLS (NOONE ELSE CAN USE THESE COMMANDS):
   
++restart
+  - Restarts the Bot
+  
 +secretdaily
   - Does all secret daily stuff
 
